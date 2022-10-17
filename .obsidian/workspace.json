@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Наследование.md",
+                "file": "Base/Магические числа.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a853b2ab6d752de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aaa323557ba434b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Наследование.md",
+                "file": "Base/Магические числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Наследование.md",
+                "file": "Base/Магические числа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Наследование.md"
+                "file": "Base/Магические числа.md"
               }
             }
           }
@@ -141,14 +155,15 @@
   },
   "active": "b281e1b91f2cdfdf",
   "lastOpenFiles": [
-    "Z-core/00 ООП.md",
-    "Base/Наследование.md",
-    "Z-core/00 GIT.md",
-    "Z-core/00 Программирование.md",
     "Base/Патриотизм.md",
-    "Templates/Standart.md",
-    "Daily/2022-10-17.md",
     "Base/hello world.md",
-    "Z-core/00 Политика.md"
+    "Base/Цетелькастен.md",
+    "Base/Аксессоры.md",
+    "Base/Статический метод.md",
+    "Base/Инкапсуляция.md",
+    "Base/Статический класс.md",
+    "Base/Абстрактный класс.md",
+    "Z-core/00 ООП.md",
+    "Base/Полиморфизм.md"
   ]
 }
