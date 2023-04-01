@@ -1,12 +1,16 @@
-29.03.2023 23:34
-Tags: #info
+30.03.2023 00:34
+Tags:
 
 ---
-# git show
+# git commit
+
+
 
 ---
 ### Zero-links:
 [[00 GIT]]
 
+
 ---
 ### Links:
+
