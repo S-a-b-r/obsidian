@@ -13,29 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/vue ui.md",
+                "file": "Base/Подключение Vue к существующему приложению.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "fa41ee89151410e8"
           }
         ]
       },
       {
-        "id": "b565242a67a2c9a2",
+        "id": "5d9dc0f86f7feab4",
         "type": "tabs",
         "children": [
           {
-            "id": "26eb6f9c8aa3bc47",
+            "id": "63e455ce09a17e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/vue ui.md",
+                "file": "Base/Подключение Vue к существующему приложению.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "fa41ee89151410e8"
           }
         ]
       }
@@ -111,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/vue ui.md",
+                "file": "Base/Подключение Vue к существующему приложению.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/vue ui.md",
+                "file": "Base/Подключение Vue к существующему приложению.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/vue ui.md"
+                "file": "Base/Подключение Vue к существующему приложению.md"
               }
             }
           }
@@ -175,10 +177,12 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "26eb6f9c8aa3bc47",
+  "active": "63e455ce09a17e72",
   "lastOpenFiles": [
-    "Files/vue-ui.png",
+    "Base/Single File Component (SFC).md",
+    "Base/Подключение Vue к существующему приложению.md",
     "Base/vue ui.md",
+    "Files/vue-ui.png",
     "Base/Vue require plugins.md",
     "Base/Абстрактный класс.md",
     "Base/vue init.md",
@@ -202,7 +206,6 @@
     "Base/git log.md",
     "Base/git reset.md",
     "Base/git add -i.md",
-    "Base/git add.md",
-    "Base/Цетелькастен.md"
+    "Base/git add.md"
   ]
 }
