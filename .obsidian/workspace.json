@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6359e686b74167ac",
+        "id": "a481ff84733df797",
         "type": "tabs",
         "children": [
           {
-            "id": "875e234d87e21a9c",
+            "id": "38c92c83102eaab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/git blame.md",
+                "file": "Base/vue ui.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b565242a67a2c9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26eb6f9c8aa3bc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/vue ui.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -64,6 +82,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b8febff408c6ed29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/git blame.md",
+                "file": "Base/vue ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/git blame.md",
+                "file": "Base/vue ui.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/git blame.md"
+                "file": "Base/vue ui.md"
               }
             }
           }
@@ -149,8 +175,26 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "875e234d87e21a9c",
+  "active": "26eb6f9c8aa3bc47",
   "lastOpenFiles": [
+    "Files/vue-ui.png",
+    "Base/vue ui.md",
+    "Base/Vue require plugins.md",
+    "Base/Абстрактный класс.md",
+    "Base/vue init.md",
+    "Z-core/Без названия.md",
+    "Без названия.canvas",
+    "Z-core/00 Vue.md",
+    "Base/Инкапсуляция.md",
+    "Base/nuxt init.md",
+    "Base/Наследование.md",
+    "Z-core/00 Программирование.md",
+    "Z-core/00 GIT.md",
+    "Z-core/00 Frontend.md",
+    "Z-core/00 Laravel.md",
+    "Z-core/00 Nuxt.md",
+    "Z-core/00 PHP.md",
+    "Base/git blame.md",
     "Base/git clean.md",
     "Base/git commit.md",
     "Base/git commit -am 'message'.md",
@@ -159,23 +203,6 @@
     "Base/git reset.md",
     "Base/git add -i.md",
     "Base/git add.md",
-    "Base/git blame.md",
-    "Base/Цетелькастен.md",
-    "Base/git log --graph.md",
-    "Base/git restore.md",
-    "Base/git revert.md",
-    "Base/git rm.md",
-    "Base/git show.md",
-    "Base/git stash.md",
-    "Base/Статический класс.md",
-    "Base/Полиморфизм.md",
-    "Base/Патриотизм.md",
-    "Base/Наследование.md",
-    "Base/Мысль про будущее(Саша).md",
-    "Base/Создание ярлыка index.php.md",
-    "Templates/Standart.md",
-    "Base/Индекс.md",
-    "Base/Изменение прошлого коммита.md",
-    "Base/Мысль про будущее(Гриша).md"
+    "Base/Цетелькастен.md"
   ]
 }
