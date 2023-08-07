@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Изменение прошлого коммита.md",
+                "file": "Base/Атрибут lang.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "57cf85b229bde66c"
+          }
+        ]
+      },
+      {
+        "id": "d5057a11ccf42e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6423a75267e26168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Атрибут lang.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "57cf85b229bde66c"
           }
         ]
       }
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Изменение прошлого коммита.md",
+                "file": "Base/Атрибут lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Изменение прошлого коммита.md",
+                "file": "Base/Атрибут lang.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Изменение прошлого коммита.md"
+                "file": "Base/Атрибут lang.md"
               }
             }
           }
@@ -159,8 +179,21 @@
   },
   "active": "fc9d0ea330127387",
   "lastOpenFiles": [
-    "Base/git commit -am 'message'.md",
+    "Base/Глубокие селекторы.md",
+    "Base/Атрибут lang.md",
+    "Base/style в компоненте.md",
+    "Base/Динамические классы.md",
+    "Base/watch in script.md",
+    "Base/setterы для вычисляемых свойств.md",
+    "Base/methods in script.md",
+    "Base/computed in script.md",
+    "Base/data в script.md",
+    "Base/components в script.md",
+    "Base/name в script.md",
+    "Base/Template в компоненте(шаблон).md",
+    "Base/Script в компоненте.md",
     "Base/Изменение прошлого коммита.md",
+    "Base/git commit -am 'message'.md",
     "Z-core/00 ООП.md",
     "Base/Магические числа.md",
     "Daily/2022-10-17.md",
@@ -169,22 +202,9 @@
     "Base/git grep.md",
     "Base/Модификаторы.md",
     "Z-core/00 Vue.md",
-    "Base/Template в компоненте(шаблон).md",
     "Base/Динамические атрибуты.md",
     "Base/Атрибуты.md",
     "Base/Vue require plugins.md",
-    "Z-core/00 Frontend.md",
-    "Templates/Frontend.md",
-    "Templates/Standart.md",
-    "Base/Директивы.md",
-    "Z-core/00 GIT.md",
-    "Z-core/00 Программирование.md",
-    "Base/Создание ярлыка index.php.md",
-    "Base/git reset.md",
-    "Base/Подключение Vue к существующему приложению.md",
-    "Base/Интерполяция.md",
-    "Base/git rm.md",
-    "Base/nuxt init.md",
     "Files/vue-ui.png",
     "Без названия.canvas"
   ]
