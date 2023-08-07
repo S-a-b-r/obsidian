@@ -12,7 +12,7 @@ git reset --hard \<commit\>
 
 ---
 ### Zero-links:
-
+[[00 GIT]]
 
 ---
 ### Links:

@@ -16,7 +16,7 @@ import App from 'anywhere/app'; const filter = document.getElementById('filter')
 
 ---
 ### Zero-links:
-
+[[00 Vue]]
 
 ---
 ### Links:
