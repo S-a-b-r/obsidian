@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Атрибут lang.md",
+                "file": "Base/Инициализация (создание) компонента.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Атрибут lang.md",
+                "file": "Base/Инициализация (создание) компонента.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Атрибут lang.md",
+                "file": "Base/Инициализация (создание) компонента.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Атрибут lang.md",
+                "file": "Base/Инициализация (создание) компонента.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Атрибут lang.md"
+                "file": "Base/Инициализация (создание) компонента.md"
               }
             }
           }
@@ -179,8 +179,25 @@
   },
   "active": "fc9d0ea330127387",
   "lastOpenFiles": [
-    "Base/Глубокие селекторы.md",
+    "Base/Хуки жизненного цикла.md",
+    "Base/Инициализация (создание) компонента.md",
+    "Base/Хук ошибки errorCaptured.md",
+    "Base/destroyed.md",
+    "Base/beforeDestroy.md",
+    "Base/Хуки уничтожения компонента.md",
+    "Base/updated.md",
+    "Base/beforeUpdate.md",
+    "Base/Хуки перерисовки (Diff, повторный рендеринг).md",
+    "Base/mounted.md",
+    "Base/beforeMount.md",
+    "Base/Хуки монтирования.md",
+    "Base/created.md",
+    "Base/beforeCreate.md",
+    "Base/vue ui.md",
+    "Files/vue-ui.png",
+    "Files/component_life_hooks.png",
     "Base/Атрибут lang.md",
+    "Base/Глубокие селекторы.md",
     "Base/style в компоненте.md",
     "Base/Динамические классы.md",
     "Base/watch in script.md",
@@ -190,22 +207,6 @@
     "Base/data в script.md",
     "Base/components в script.md",
     "Base/name в script.md",
-    "Base/Template в компоненте(шаблон).md",
-    "Base/Script в компоненте.md",
-    "Base/Изменение прошлого коммита.md",
-    "Base/git commit -am 'message'.md",
-    "Z-core/00 ООП.md",
-    "Base/Магические числа.md",
-    "Daily/2022-10-17.md",
-    "Base/Индекс.md",
-    "Base/git commit.md",
-    "Base/git grep.md",
-    "Base/Модификаторы.md",
-    "Z-core/00 Vue.md",
-    "Base/Динамические атрибуты.md",
-    "Base/Атрибуты.md",
-    "Base/Vue require plugins.md",
-    "Files/vue-ui.png",
     "Без названия.canvas"
   ]
 }
