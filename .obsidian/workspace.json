@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JS variable types.md",
+                "file": "Base/git commit.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Снять пересказ книги YDKJS.md",
+                "file": "Base/Область видимости.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Снять пересказ книги YDKJS.md",
+                "file": "Base/git commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Снять пересказ книги YDKJS.md",
+                "file": "Base/git commit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Снять пересказ книги YDKJS.md"
+                "file": "Base/git commit.md"
               }
             }
           },
@@ -156,7 +155,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -180,15 +181,20 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "343f8e43075b52e7",
+  "active": "6423a75267e26168",
   "lastOpenFiles": [
-    "Z-core/00 Идеи для видео.md",
+    "Base/eval().md",
+    "Base/Область видимости.md",
     "Base/Снять пересказ книги YDKJS.md",
+    "Base/setterы для вычисляемых свойств.md",
+    "Base/with().md",
+    "Z-core/00 Область видимости.md",
+    "Base/var, let, const.md",
+    "Base/JS variable types.md",
+    "Z-core/00 Идеи для видео.md",
     "Base/Сравнение в JS.md",
     "Base/Идеи для видео.md",
     "Base/Затенение.md",
-    "Base/var, let, const.md",
-    "Base/JS variable types.md",
     "Files/Pasted image 20231223151301.png",
     "Z-core/00 YDKJS.md",
     "Templates/Frontend.md",
@@ -204,11 +210,6 @@
     "Base/destroyed.md",
     "Base/beforeDestroy.md",
     "Base/Хуки уничтожения компонента.md",
-    "Base/updated.md",
-    "Base/beforeUpdate.md",
-    "Base/Хуки перерисовки (Diff, повторный рендеринг).md",
-    "Base/mounted.md",
-    "Base/beforeMount.md",
     "Files/vue-ui.png",
     "Files/component_life_hooks.png",
     "Без названия.canvas"
