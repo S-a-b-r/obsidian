@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/git commit.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "343f8e43075b52e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Область видимости.md",
+                "file": "Base/cross-env.md",
                 "mode": "source",
                 "source": true
               }
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "23c2f5704fe0dd89",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/git commit.md",
+                "file": "Base/cross-env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/git commit.md",
+                "file": "Base/cross-env.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/git commit.md"
+                "file": "Base/cross-env.md"
               }
             }
           },
@@ -183,8 +171,12 @@
   },
   "active": "6423a75267e26168",
   "lastOpenFiles": [
-    "Base/eval().md",
+    "Z-core/00 Node.js.md",
+    "Base/cross-env.md",
     "Base/Область видимости.md",
+    "Templates/Frontend.md",
+    "Base/git commit.md",
+    "Base/eval().md",
     "Base/Снять пересказ книги YDKJS.md",
     "Base/setterы для вычисляемых свойств.md",
     "Base/with().md",
@@ -197,7 +189,6 @@
     "Base/Затенение.md",
     "Files/Pasted image 20231223151301.png",
     "Z-core/00 YDKJS.md",
-    "Templates/Frontend.md",
     "Z-core/00 Frontend.md",
     "Base/Proxy.md",
     "Base/Реактивность.md",
@@ -207,9 +198,6 @@
     "Base/Инициализация (создание) компонента.md",
     "Base/Хуки жизненного цикла.md",
     "Base/Хук ошибки errorCaptured.md",
-    "Base/destroyed.md",
-    "Base/beforeDestroy.md",
-    "Base/Хуки уничтожения компонента.md",
     "Files/vue-ui.png",
     "Files/component_life_hooks.png",
     "Без названия.canvas"
