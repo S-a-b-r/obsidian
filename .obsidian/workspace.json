@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5057a11ccf42e8b",
+        "id": "061d5d3abffe1950",
         "type": "tabs",
         "children": [
           {
-            "id": "6423a75267e26168",
+            "id": "92ae88eb8834fb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Структурная типизация(Утиная типизация).md",
+                "file": "Base/go imports.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Структурная типизация(Утиная типизация).md",
+                "file": "Base/go imports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Структурная типизация(Утиная типизация).md",
+                "file": "Base/go imports.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Структурная типизация(Утиная типизация).md"
+                "file": "Base/go imports.md"
               }
             }
           },
@@ -169,8 +169,11 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "6423a75267e26168",
+  "active": "92ae88eb8834fb46",
   "lastOpenFiles": [
+    "Base/go fmt.md",
+    "Base/go imports.md",
+    "Base/go build.md",
     "Z-core/00 Golang.md",
     "Base/Структурная типизация(Утиная типизация).md",
     "Base/cross-env.md",
@@ -195,9 +198,6 @@
     "Base/Proxy.md",
     "Base/Реактивность.md",
     "Base/virtual DOM.md",
-    "Base/Директивы.md",
-    "Z-core/00 Backend.md",
-    "Base/Инициализация (создание) компонента.md",
     "Files/vue-ui.png",
     "Files/component_life_hooks.png",
     "Без названия.canvas"
