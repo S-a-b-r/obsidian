@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "061d5d3abffe1950",
+        "id": "265546e6f46dc4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "92ae88eb8834fb46",
+            "id": "b389f7d95aa98161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/go imports.md",
+                "file": "Base/Пользовательские типы в Go.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1660969514fe96bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Типы в Go.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/go imports.md",
+                "file": "Base/Пользовательские типы в Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/go imports.md",
+                "file": "Base/Пользовательские типы в Go.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/go imports.md"
+                "file": "Base/Пользовательские типы в Go.md"
               }
             }
           },
@@ -169,37 +181,39 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "92ae88eb8834fb46",
+  "active": "b389f7d95aa98161",
   "lastOpenFiles": [
-    "Base/go fmt.md",
+    "Base/Базовые типы в Go.md",
+    "Base/Пользовательские типы в Go.md",
+    "Base/Типы в Go.md",
+    "Files/Pasted image 20240519152820.png",
+    "Base/Основные команды в Go.md",
+    "Files/Pasted image 20231223151301.png",
+    "Files/Pasted image 20240519143335.png",
+    "Files/vue-ui.png",
+    "Files/component_life_hooks.png",
+    "Base/Каналы.md",
+    "Z-core/00 Многопоточность.md",
+    "Templates/Go.md",
+    "Templates/Frontend.md",
+    "Templates/Backend.md",
+    "Templates/Standart.md",
+    "Base/Горутины.md",
+    "Base/Полиморфизм.md",
+    "Base/Интерполяция.md",
+    "Base/ООП в Go.md",
+    "Base/go tests.md",
+    "Z-core/00 Tests.md",
     "Base/go imports.md",
+    "Base/00 tests.md",
+    "Base/go fmt.md",
     "Base/go build.md",
     "Z-core/00 Golang.md",
     "Base/Структурная типизация(Утиная типизация).md",
     "Base/cross-env.md",
     "Z-core/00 Node.js.md",
     "Base/Область видимости.md",
-    "Templates/Frontend.md",
     "Base/git commit.md",
-    "Base/eval().md",
-    "Base/Снять пересказ книги YDKJS.md",
-    "Base/setterы для вычисляемых свойств.md",
-    "Base/with().md",
-    "Z-core/00 Область видимости.md",
-    "Base/var, let, const.md",
-    "Base/JS variable types.md",
-    "Z-core/00 Идеи для видео.md",
-    "Base/Сравнение в JS.md",
-    "Base/Идеи для видео.md",
-    "Base/Затенение.md",
-    "Files/Pasted image 20231223151301.png",
-    "Z-core/00 YDKJS.md",
-    "Z-core/00 Frontend.md",
-    "Base/Proxy.md",
-    "Base/Реактивность.md",
-    "Base/virtual DOM.md",
-    "Files/vue-ui.png",
-    "Files/component_life_hooks.png",
     "Без названия.canvas"
   ]
 }

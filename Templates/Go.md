@@ -1,5 +1,5 @@
 {{date:DD.MM.YYYY}} {{time:HH:mm}}
-Tags: #info 
+Tags: #info
 
 ---
 # {{title}}
@@ -7,7 +7,7 @@ Tags: #info
 
 ---
 ### Zero-links:
-[[00 Frontend]]
+[[00 Backend]] [[00 Golang]]
 
 ---
 ### Links:

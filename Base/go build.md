@@ -8,7 +8,7 @@ go build -o hello_world hello.go (Флаг -o позволяет переиме�
 
 ---
 ### Zero-links:
-[[00 Golang]] [[00 Backend]]
+[[00 Golang]] [[Z-core/00 Backend]]
 
 ---
 ### Links:
