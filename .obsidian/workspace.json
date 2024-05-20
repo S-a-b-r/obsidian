@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "265546e6f46dc4a8",
+        "id": "d6b5c4af92127e15",
         "type": "tabs",
         "children": [
           {
-            "id": "b389f7d95aa98161",
+            "id": "d031afd6e1c64c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пользовательские типы в Go.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1660969514fe96bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Типы в Go.md",
+                "file": "Base/iota.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Пользовательские типы в Go.md",
+                "file": "Base/iota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Пользовательские типы в Go.md",
+                "file": "Base/iota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Пользовательские типы в Go.md"
+                "file": "Base/iota.md"
               }
             }
           },
@@ -181,11 +169,19 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "b389f7d95aa98161",
+  "active": "d031afd6e1c64c8e",
   "lastOpenFiles": [
-    "Base/Базовые типы в Go.md",
-    "Base/Пользовательские типы в Go.md",
+    "Base/Константы в Go.md",
+    "Base/iota.md",
+    "Templates/Go.md",
+    "Z-core/00 Vue.md",
+    "Base/Структурная типизация(Утиная типизация).md",
+    "Base/Горутины.md",
     "Base/Типы в Go.md",
+    "Base/Псевдонимы(Алиасы) в Go.md",
+    "Base/Приведение типов в Go.md",
+    "Base/Пользовательские типы в Go.md",
+    "Base/Базовые типы в Go.md",
     "Files/Pasted image 20240519152820.png",
     "Base/Основные команды в Go.md",
     "Files/Pasted image 20231223151301.png",
@@ -194,11 +190,9 @@
     "Files/component_life_hooks.png",
     "Base/Каналы.md",
     "Z-core/00 Многопоточность.md",
-    "Templates/Go.md",
     "Templates/Frontend.md",
     "Templates/Backend.md",
     "Templates/Standart.md",
-    "Base/Горутины.md",
     "Base/Полиморфизм.md",
     "Base/Интерполяция.md",
     "Base/ООП в Go.md",
@@ -208,12 +202,6 @@
     "Base/00 tests.md",
     "Base/go fmt.md",
     "Base/go build.md",
-    "Z-core/00 Golang.md",
-    "Base/Структурная типизация(Утиная типизация).md",
-    "Base/cross-env.md",
-    "Z-core/00 Node.js.md",
-    "Base/Область видимости.md",
-    "Base/git commit.md",
     "Без названия.canvas"
   ]
 }
