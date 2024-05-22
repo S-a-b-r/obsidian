@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/iota.md",
+                "file": "Base/Константы в Go.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/iota.md",
+                "file": "Base/Константы в Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/iota.md",
+                "file": "Base/Константы в Go.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/iota.md"
+                "file": "Base/Константы в Go.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "d031afd6e1c64c8e",
   "lastOpenFiles": [
-    "Base/Константы в Go.md",
+    "Base/Экспортируемость в Go.md",
+    "Base/Глобальные переменные в Go.md",
     "Base/iota.md",
+    "Base/Константы в Go.md",
     "Templates/Go.md",
     "Z-core/00 Vue.md",
     "Base/Структурная типизация(Утиная типизация).md",
@@ -200,8 +202,6 @@
     "Z-core/00 Tests.md",
     "Base/go imports.md",
     "Base/00 tests.md",
-    "Base/go fmt.md",
-    "Base/go build.md",
     "Без названия.canvas"
   ]
 }
