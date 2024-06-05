@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Условный оператор if в go.md",
+                "file": "Base/Указатели.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a572b2c1b709d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Разыменование в Go.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Условный оператор if в go.md",
+                "file": "Base/Указатели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Условный оператор if в go.md",
+                "file": "Base/Указатели.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Условный оператор if в go.md"
+                "file": "Base/Указатели.md"
               }
             }
           },
@@ -171,9 +183,12 @@
   },
   "active": "8103ba042043907d",
   "lastOpenFiles": [
+    "Base/Разыменование в Go.md",
+    "Base/Указатели.md",
+    "Base/new().md",
+    "Base/Условный оператор if в go.md",
     "Base/Метки в Go.md",
     "Base/Основные команды в Go.md",
-    "Base/Условный оператор if в go.md",
     "Base/Константы в Go.md",
     "Base/Экспортируемость в Go.md",
     "Base/Глобальные переменные в Go.md",
@@ -199,9 +214,6 @@
     "Templates/Standart.md",
     "Base/Полиморфизм.md",
     "Base/Интерполяция.md",
-    "Base/ООП в Go.md",
-    "Base/go tests.md",
-    "Z-core/00 Tests.md",
     "Без названия.canvas"
   ]
 }
