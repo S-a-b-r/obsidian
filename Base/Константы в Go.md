@@ -91,7 +91,7 @@ func main() {
 ```
 При компиляции этого примера возникнет ошибка `cannot use flag (constant 128 of type uint8) as type int in variable declaration`, так как у константы `flag` тип `uint8`, а у переменной `i` тип `int`.
 
-Нельзя объявлять пустую константу в одиночку. 
+Нельзя объявлять пустую константу без значение
 ```go
 const Weight int //missing init expr for Weight
 ```
