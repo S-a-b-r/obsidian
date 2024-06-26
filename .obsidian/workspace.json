@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Слайсы (Slices).md",
+                "file": "Base/go build.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Слайсы (Slices).md",
+                "file": "Base/go build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Слайсы (Slices).md",
+                "file": "Base/go build.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Слайсы (Slices).md"
+                "file": "Base/go build.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "0a572b2c1b709d27",
   "lastOpenFiles": [
-    "Base/Копирование слайса.md",
+    "Base/Мапы.md",
     "Base/Слайсы (Slices).md",
+    "Base/Копирование слайса.md",
     "Base/Приведение типов в Go.md",
     "Base/Глобальные переменные в Go.md",
     "Base/Метки в Go.md",
@@ -202,7 +203,6 @@
     "Files/Pasted image 20240519143335.png",
     "Files/vue-ui.png",
     "Files/component_life_hooks.png",
-    "Z-core/00 Многопоточность.md",
     "Без названия.canvas"
   ]
 }

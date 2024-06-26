@@ -4,7 +4,9 @@ Tags:
 ---
 # go build
 
-go build -o hello_world hello.go (Флаг -o позволяет переименовать компилируемый файл)
+`go build -o hello_world hello.go` (Флаг -o позволяет переименовать компилируемый файл)
+
+`GOOS=windows GOARCH=386 go build -o hello_windows.exe` для билда под винду
 
 ---
 ### Zero-links:
