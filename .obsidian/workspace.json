@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b5c4af92127e15",
+        "id": "ab7e17c33c3f993b",
         "type": "tabs",
         "children": [
           {
-            "id": "0a572b2c1b709d27",
+            "id": "a1e4e41688ff7a85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Анонимные структуры.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7e458b055fdccce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +161,16 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "f7e458b055fdccce",
+  "active": "a1e4e41688ff7a85",
   "lastOpenFiles": [
-    "Base/Структуры.md",
+    "Base/SOLID.md",
+    "Base/SRP Single Responsibility Prinviple).md",
+    "Base/DIP Dipendency inversion principle.md",
+    "Base/ISP Interface segregation principe.md",
+    "Base/LSP (Liskov substitution principle).md",
+    "Base/(OCP) Open-closed principle.md",
     "Base/Анонимные структуры.md",
+    "Base/Структуры.md",
     "Base/struct{}.md",
     "Base/Мапы.md",
     "Base/go build.md",
@@ -197,12 +190,6 @@
     "Base/for range.md",
     "Base/Массивы.md",
     "Base/Разыменование в Go.md",
-    "Base/Указатели.md",
-    "Base/new().md",
-    "Base/Условный оператор if в go.md",
-    "Base/Основные команды в Go.md",
-    "Base/Экспортируемость в Go.md",
-    "Base/iota.md",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
     "Files/Pasted image 20240519143335.png",
