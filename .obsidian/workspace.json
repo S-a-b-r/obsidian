@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/go build.md",
+                "file": "Base/Анонимные структуры.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "f7e458b055fdccce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/go build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/go build.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/go build.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +174,13 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "0a572b2c1b709d27",
+  "active": "f7e458b055fdccce",
   "lastOpenFiles": [
+    "Base/Структуры.md",
+    "Base/Анонимные структуры.md",
+    "Base/struct{}.md",
     "Base/Мапы.md",
+    "Base/go build.md",
     "Base/Слайсы (Slices).md",
     "Base/Копирование слайса.md",
     "Base/Приведение типов в Go.md",
@@ -194,10 +203,6 @@
     "Base/Основные команды в Go.md",
     "Base/Экспортируемость в Go.md",
     "Base/iota.md",
-    "Templates/Go.md",
-    "Z-core/00 Vue.md",
-    "Base/Структурная типизация(Утиная типизация).md",
-    "Base/Псевдонимы(Алиасы) в Go.md",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
     "Files/Pasted image 20240519143335.png",
