@@ -11,11 +11,52 @@
             "id": "a1e4e41688ff7a85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/defer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4ad1a3d1b727cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Mutex.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "57bbed7b99d1bc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Мапы.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "42fb116a5e2a0d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Структуры.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Структуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Структуры.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Структуры.md"
+              }
             }
           },
           {
@@ -161,18 +206,22 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "a1e4e41688ff7a85",
+  "active": "42fb116a5e2a0d26",
   "lastOpenFiles": [
+    "Base/Анонимные структуры.md",
+    "Base/Обработка ошибок.md",
+    "Base/Мапы.md",
+    "Base/Mutex.md",
+    "Base/defer.md",
+    "Base/funcopts Подход к конструкторам в Go.md",
     "Base/SOLID.md",
     "Base/SRP Single Responsibility Prinviple).md",
     "Base/DIP Dipendency inversion principle.md",
     "Base/ISP Interface segregation principe.md",
     "Base/LSP (Liskov substitution principle).md",
     "Base/(OCP) Open-closed principle.md",
-    "Base/Анонимные структуры.md",
     "Base/Структуры.md",
     "Base/struct{}.md",
-    "Base/Мапы.md",
     "Base/go build.md",
     "Base/Слайсы (Slices).md",
     "Base/Копирование слайса.md",
@@ -185,11 +234,7 @@
     "Base/ООП в Go.md",
     "Base/Базовые типы в Go.md",
     "Base/Горутины.md",
-    "Base/Типы в Go.md",
     "Files/Pasted image 20240613091332.png",
-    "Base/for range.md",
-    "Base/Массивы.md",
-    "Base/Разыменование в Go.md",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
     "Files/Pasted image 20240519143335.png",
