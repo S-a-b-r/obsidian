@@ -8,55 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1e4e41688ff7a85",
+            "id": "d28632fb8dbe6c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/defer.md",
+                "file": "Base/Пакеты.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4ad1a3d1b727cbbb",
+            "id": "3eacc7a60f0d4e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Mutex.md",
+                "file": "Base/Пустой импорт.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "57bbed7b99d1bc5e",
+            "id": "b8de71cfe2afb549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Мапы.md",
+                "file": "Base/init().md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "42fb116a5e2a0d26",
+            "id": "8edfc9ad9cbdc99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Структуры.md",
-                "mode": "source",
+                "file": "Base/Standard Go Project Layout.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Структуры.md",
+                "file": "Base/Пакеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Структуры.md",
+                "file": "Base/Пакеты.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Структуры.md"
+                "file": "Base/Пакеты.md"
               }
             }
           },
@@ -206,13 +205,27 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "42fb116a5e2a0d26",
+  "active": "d28632fb8dbe6c89",
   "lastOpenFiles": [
+    "Base/Standard Go Project Layout.md",
+    "Base/init().md",
+    "Base/Пустой импорт.md",
+    "Base/Пакеты.md",
+    "Base/Пользовательские типы в Go.md",
+    "Base/struct{}.md",
+    "Templates/Go.md",
+    "Base/iota.md",
+    "Base/beforeCreate.md",
+    "Base/Динамические классы.md",
+    "Base/defer Отложенная функция.md",
+    "Base/Типы в Go.md",
+    "Base/Структурная типизация(Утиная типизация).md",
+    "Base/panic Паника.md",
+    "Base/Mutex.md",
+    "Base/Структуры.md",
     "Base/Анонимные структуры.md",
     "Base/Обработка ошибок.md",
     "Base/Мапы.md",
-    "Base/Mutex.md",
-    "Base/defer.md",
     "Base/funcopts Подход к конструкторам в Go.md",
     "Base/SOLID.md",
     "Base/SRP Single Responsibility Prinviple).md",
@@ -220,20 +233,6 @@
     "Base/ISP Interface segregation principe.md",
     "Base/LSP (Liskov substitution principle).md",
     "Base/(OCP) Open-closed principle.md",
-    "Base/Структуры.md",
-    "Base/struct{}.md",
-    "Base/go build.md",
-    "Base/Слайсы (Slices).md",
-    "Base/Копирование слайса.md",
-    "Base/Приведение типов в Go.md",
-    "Base/Глобальные переменные в Go.md",
-    "Base/Метки в Go.md",
-    "Base/Пользовательские типы в Go.md",
-    "Base/Константы в Go.md",
-    "Base/Каналы.md",
-    "Base/ООП в Go.md",
-    "Base/Базовые типы в Go.md",
-    "Base/Горутины.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
