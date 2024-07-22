@@ -11,12 +11,8 @@
             "id": "d28632fb8dbe6c89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Пакеты.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -129,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Пакеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Пакеты.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Пакеты.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +199,10 @@
   },
   "active": "d28632fb8dbe6c89",
   "lastOpenFiles": [
+    "Base/Пакеты.md",
     "Base/Standard Go Project Layout.md",
     "Base/init().md",
     "Base/Пустой импорт.md",
-    "Base/Пакеты.md",
     "Base/Пользовательские типы в Go.md",
     "Base/struct{}.md",
     "Templates/Go.md",
