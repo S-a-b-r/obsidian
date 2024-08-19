@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модули.md",
-                "mode": "source",
+                "file": "Base/iota.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Модули.md",
+                "file": "Base/iota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Модули.md",
+                "file": "Base/iota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Модули.md"
+                "file": "Base/iota.md"
               }
             }
           },
@@ -171,21 +171,22 @@
   },
   "active": "d28632fb8dbe6c89",
   "lastOpenFiles": [
-    "Base/Пакеты и файлы.md",
+    "Base/Типы в Go.md",
+    "Base/Базовые типы в Go.md",
     "Base/Модули.md",
+    "Base/Пользовательские типы в Go.md",
+    "Base/Пакеты и файлы.md",
     "Base/Переменные окружение в Go.md",
     "Base/Standard Go Project Layout.md",
     "Base/init().md",
     "Base/Пустой импорт.md",
     "Base/Пакеты.md",
-    "Base/Пользовательские типы в Go.md",
     "Base/struct{}.md",
     "Templates/Go.md",
     "Base/iota.md",
     "Base/beforeCreate.md",
     "Base/Динамические классы.md",
     "Base/defer Отложенная функция.md",
-    "Base/Типы в Go.md",
     "Base/Структурная типизация(Утиная типизация).md",
     "Base/panic Паника.md",
     "Base/Mutex.md",
@@ -196,7 +197,6 @@
     "Base/funcopts Подход к конструкторам в Go.md",
     "Base/SOLID.md",
     "Base/SRP Single Responsibility Prinviple).md",
-    "Base/DIP Dipendency inversion principle.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
