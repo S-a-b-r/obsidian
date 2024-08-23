@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/iota.md",
-                "mode": "preview",
+                "file": "Base/Версионирование.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/iota.md",
+                "file": "Base/Версионирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/iota.md",
+                "file": "Base/Версионирование.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/iota.md"
+                "file": "Base/Версионирование.md"
               }
             }
           },
@@ -171,10 +171,15 @@
   },
   "active": "d28632fb8dbe6c89",
   "lastOpenFiles": [
+    "Base/Внешние зависимости.md",
+    "Base/Версионирование.md",
+    "Base/go build.md",
+    "Base/Модули.md",
+    "Base/Псевдонимы(Алиасы) в Go.md",
+    "Base/Пользовательские типы в Go.md",
+    "Base/iota.md",
     "Base/Типы в Go.md",
     "Base/Базовые типы в Go.md",
-    "Base/Модули.md",
-    "Base/Пользовательские типы в Go.md",
     "Base/Пакеты и файлы.md",
     "Base/Переменные окружение в Go.md",
     "Base/Standard Go Project Layout.md",
@@ -183,7 +188,6 @@
     "Base/Пакеты.md",
     "Base/struct{}.md",
     "Templates/Go.md",
-    "Base/iota.md",
     "Base/beforeCreate.md",
     "Base/Динамические классы.md",
     "Base/defer Отложенная функция.md",
@@ -193,10 +197,6 @@
     "Base/Структуры.md",
     "Base/Анонимные структуры.md",
     "Base/Обработка ошибок.md",
-    "Base/Мапы.md",
-    "Base/funcopts Подход к конструкторам в Go.md",
-    "Base/SOLID.md",
-    "Base/SRP Single Responsibility Prinviple).md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
