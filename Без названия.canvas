@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8f97a503174d41c2","x":-240,"y":-300,"width":205,"height":80,"type":"text","text":"АХХАХАХАХ"},
+		{"id":"e5769f1aa75fdf1a","x":-660,"y":-120,"width":480,"height":460,"type":"file","file":"Base/Вендоринг.md"},
+		{"id":"b92f09f41ce2e9e8","x":0,"y":0,"width":250,"height":60,"color":"2","type":"text","text":"АХАХАХАХ 2"}
+	],
+	"edges":[
+		{"id":"de91655467feb75c","fromNode":"8f97a503174d41c2","fromSide":"left","toNode":"e5769f1aa75fdf1a","toSide":"top"},
+		{"id":"40ff22a0319cff1e","fromNode":"e5769f1aa75fdf1a","fromSide":"right","toNode":"b92f09f41ce2e9e8","toSide":"left"},
+		{"id":"c52528a8cca65ef2","fromNode":"8f97a503174d41c2","fromSide":"right","toNode":"b92f09f41ce2e9e8","toSide":"top"}
+	]
+}
