@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Поддержка собственных модулей.md",
+                "file": "Base/Методы.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Поддержка собственных модулей.md",
+                "file": "Base/Методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Поддержка собственных модулей.md",
+                "file": "Base/Методы.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Поддержка собственных модулей.md"
+                "file": "Base/Методы.md"
               }
             }
           },
@@ -196,22 +196,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false
     }
   },
   "active": "a00442e531bd0fdd",
   "lastOpenFiles": [
+    "Base/Поддержка собственных модулей.md",
+    "Base/Методы.md",
     "Base/godoc.md",
     "Base/go vet.md",
     "Base/go proxy.md",
-    "Base/Поддержка собственных модулей.md",
     "Base/Вендоринг.md",
     "Без названия.canvas",
     "Base/checksum.md",
@@ -234,7 +235,6 @@
     "Templates/Go.md",
     "Base/beforeCreate.md",
     "Base/Динамические классы.md",
-    "Base/defer Отложенная функция.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
