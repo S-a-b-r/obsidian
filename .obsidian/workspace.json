@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d28632fb8dbe6c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/go proxy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f2e97db04045388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/go vet.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9987b59b5fd91a83",
             "type": "leaf",
             "state": {
@@ -20,19 +44,19 @@
             }
           },
           {
-            "id": "52d44298969b3b6d",
+            "id": "a00442e531bd0fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Base/Эмбеддинг (embedding types).md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Base/Эмбеддинг (embedding types).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Base/Эмбеддинг (embedding types).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Base/Эмбеддинг (embedding types).md"
               }
             }
           },
@@ -182,16 +206,16 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "52d44298969b3b6d",
+  "active": "a00442e531bd0fdd",
   "lastOpenFiles": [
-    "Base/godoc.md",
-    "conflict-files-obsidian-git.md",
     "Base/Методы.md",
+    "Base/Эмбеддинг (embedding types).md",
+    "Base/Поддержка собственных модулей.md",
+    "Base/godoc.md",
     "Base/go vet.md",
     "Base/go proxy.md",
-    "Без названия.canvas",
-    "Base/Поддержка собственных модулей.md",
     "Base/Вендоринг.md",
+    "Без названия.canvas",
     "Base/checksum.md",
     "Base/Внешние зависимости.md",
     "Base/Версионирование.md",
