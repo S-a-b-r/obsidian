@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "52d44298969b3b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/godoc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/godoc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/godoc.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,11 +182,13 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "9987b59b5fd91a83",
+  "active": "52d44298969b3b6d",
   "lastOpenFiles": [
+    "Base/godoc.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Методы.md",
     "Base/go vet.md",
     "Base/go proxy.md",
-    "Base/godoc.md",
     "Без названия.canvas",
     "Base/Поддержка собственных модулей.md",
     "Base/Вендоринг.md",
@@ -196,7 +211,6 @@
     "Base/struct{}.md",
     "Templates/Go.md",
     "Base/beforeCreate.md",
-    "Base/Динамические классы.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
