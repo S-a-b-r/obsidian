@@ -8,15 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9987b59b5fd91a83",
+            "id": "5a08a3e0666b18ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модули.md",
+                "file": "Base/in-memory db.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "94682397dc593c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Парсистентность.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5e3311c77cc71006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Резервирование.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f99c3dad1565033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шардирование.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8e2883ce0c46f730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Redis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef3cddfdd21c696e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Tarantool.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "30e9c1188421703b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Модули.md",
+                "file": "Base/in-memory db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Модули.md",
+                "file": "Base/in-memory db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Модули.md"
+                "file": "Base/in-memory db.md"
               }
             }
           },
@@ -169,10 +237,21 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "9987b59b5fd91a83",
+  "active": "5a08a3e0666b18ab",
   "lastOpenFiles": [
-    "Base/Эмбеддинг (embedding types).md",
+    "Base/Парсистентность.md",
+    "Base/in-memory db.md",
+    "Base/Tarantool.md",
+    "Base/Redis.md",
+    "Base/Резервирование.md",
+    "Base/Шардирование.md",
+    "Templates/Data Bases.md",
+    "Templates/Backend.md",
+    "Templates/Frontend.md",
+    "Templates/Go.md",
+    "Z-core/00 Базы данных.md",
     "Base/Модули.md",
+    "Base/Эмбеддинг (embedding types).md",
     "Base/godoc.md",
     "conflict-files-obsidian-git.md",
     "Base/Методы.md",
@@ -187,17 +266,6 @@
     "Base/go build.md",
     "Base/Псевдонимы(Алиасы) в Go.md",
     "Base/Пользовательские типы в Go.md",
-    "Base/iota.md",
-    "Base/Типы в Go.md",
-    "Base/Базовые типы в Go.md",
-    "Base/Пакеты и файлы.md",
-    "Base/Переменные окружение в Go.md",
-    "Base/Standard Go Project Layout.md",
-    "Base/init().md",
-    "Base/Пустой импорт.md",
-    "Base/Пакеты.md",
-    "Base/struct{}.md",
-    "Templates/Go.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
