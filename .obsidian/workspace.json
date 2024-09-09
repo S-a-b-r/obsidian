@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28632fb8dbe6c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/go proxy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f2e97db04045388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/go vet.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "9987b59b5fd91a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/godoc.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a00442e531bd0fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Эмбеддинг (embedding types).md",
+                "file": "Base/Модули.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Эмбеддинг (embedding types).md",
+                "file": "Base/Модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +110,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Эмбеддинг (embedding types).md",
-                "linksCollapsed": true,
+                "file": "Base/Модули.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Эмбеддинг (embedding types).md"
+                "file": "Base/Модули.md"
               }
             }
           },
@@ -187,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,21 +169,22 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "a00442e531bd0fdd",
+  "active": "9987b59b5fd91a83",
   "lastOpenFiles": [
-    "Base/Методы.md",
     "Base/Эмбеддинг (embedding types).md",
-    "Base/Поддержка собственных модулей.md",
+    "Base/Модули.md",
     "Base/godoc.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Методы.md",
     "Base/go vet.md",
     "Base/go proxy.md",
-    "Base/Вендоринг.md",
     "Без названия.canvas",
+    "Base/Поддержка собственных модулей.md",
+    "Base/Вендоринг.md",
     "Base/checksum.md",
     "Base/Внешние зависимости.md",
     "Base/Версионирование.md",
     "Base/go build.md",
-    "Base/Модули.md",
     "Base/Псевдонимы(Алиасы) в Go.md",
     "Base/Пользовательские типы в Go.md",
     "Base/iota.md",
@@ -234,7 +198,6 @@
     "Base/Пакеты.md",
     "Base/struct{}.md",
     "Templates/Go.md",
-    "Base/beforeCreate.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
