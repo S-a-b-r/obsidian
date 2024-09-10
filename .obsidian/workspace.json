@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/in-memory db.md",
+                "file": "Base/go get.md",
                 "mode": "source",
                 "source": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/in-memory db.md",
+                "file": "Base/go get.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/in-memory db.md",
+                "file": "Base/go get.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/in-memory db.md"
+                "file": "Base/go get.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   "active": "5a08a3e0666b18ab",
   "lastOpenFiles": [
     "Base/Парсистентность.md",
+    "Base/go get.md",
     "Base/in-memory db.md",
     "Base/Tarantool.md",
     "Base/Redis.md",
@@ -265,7 +266,6 @@
     "Base/Версионирование.md",
     "Base/go build.md",
     "Base/Псевдонимы(Алиасы) в Go.md",
-    "Base/Пользовательские типы в Go.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
