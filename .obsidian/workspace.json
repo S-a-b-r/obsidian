@@ -8,86 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a08a3e0666b18ab",
+            "id": "d28632fb8dbe6c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/go get.md",
+                "file": "Base/go proxy.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "94682397dc593c23",
+            "id": "4f2e97db04045388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Парсистентность.md",
+                "file": "Base/go vet.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5e3311c77cc71006",
+            "id": "9987b59b5fd91a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Резервирование.md",
+                "file": "Base/Интерфейсы.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4f99c3dad1565033",
+            "id": "9228457e547d581e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Шардирование.md",
+                "file": "Base/Композиция интерфейсов.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8e2883ce0c46f730",
+            "id": "eb37a37f6fb87d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Redis.md",
+                "file": "Base/Интерфейсы и коды внешних библиотек.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "ef3cddfdd21c696e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Tarantool.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30e9c1188421703b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/go get.md",
+                "file": "Base/Интерфейсы и коды внешних библиотек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +159,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/go get.md",
-                "linksCollapsed": false,
+                "file": "Base/Интерфейсы и коды внешних библиотек.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -201,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/go get.md"
+                "file": "Base/Интерфейсы и коды внешних библиотек.md"
               }
             }
           },
@@ -218,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,35 +218,35 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "5a08a3e0666b18ab",
+  "active": "eb37a37f6fb87d7e",
   "lastOpenFiles": [
+    "Base/Интерфейсы.md",
+    "Base/Композиция интерфейсов.md",
+    "Base/Интерфейсы и коды внешних библиотек.md",
+    "Z-core/00 Базы данных.md",
+    "Templates/Data Bases.md",
+    "Base/Шардирование.md",
+    "Base/Резервирование.md",
     "Base/Парсистентность.md",
-    "Base/go get.md",
     "Base/in-memory db.md",
+    "Base/go get.md",
     "Base/Tarantool.md",
     "Base/Redis.md",
-    "Base/Резервирование.md",
-    "Base/Шардирование.md",
-    "Templates/Data Bases.md",
-    "Templates/Backend.md",
-    "Templates/Frontend.md",
-    "Templates/Go.md",
-    "Z-core/00 Базы данных.md",
-    "Base/Модули.md",
-    "Base/Эмбеддинг (embedding types).md",
-    "Base/godoc.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Методы.md",
     "Base/go vet.md",
-    "Base/go proxy.md",
-    "Без названия.canvas",
+    "Base/godoc.md",
+    "Base/Патриотизм.md",
+    "Base/Разыменование в Go.md",
+    "Templates/Frontend.md",
+    "Base/Эмбеддинг (embedding types).md",
+    "Base/Методы.md",
     "Base/Поддержка собственных модулей.md",
+    "Base/go proxy.md",
     "Base/Вендоринг.md",
+    "Без названия.canvas",
     "Base/checksum.md",
     "Base/Внешние зависимости.md",
     "Base/Версионирование.md",
     "Base/go build.md",
-    "Base/Псевдонимы(Алиасы) в Go.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
