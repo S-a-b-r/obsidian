@@ -8,67 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28632fb8dbe6c89",
+            "id": "6259558dda38da96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/go proxy.md",
+                "file": "Base/Пустой интерфейс и приведение типов.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4f2e97db04045388",
+            "id": "9334a1c5f99ad0c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/go vet.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9987b59b5fd91a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Интерфейсы.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9228457e547d581e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Композиция интерфейсов.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb37a37f6fb87d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Интерфейсы и коды внешних библиотек.md",
+                "file": "Base/Пустой импорт.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Интерфейсы и коды внешних библиотек.md",
+                "file": "Base/Пустой интерфейс и приведение типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Интерфейсы и коды внешних библиотек.md",
+                "file": "Base/Пустой интерфейс и приведение типов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Интерфейсы и коды внешних библиотек.md"
+                "file": "Base/Пустой интерфейс и приведение типов.md"
               }
             }
           },
@@ -218,11 +181,17 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "eb37a37f6fb87d7e",
+  "active": "6259558dda38da96",
   "lastOpenFiles": [
-    "Base/Интерфейсы.md",
-    "Base/Композиция интерфейсов.md",
+    "Base/Пустой импорт.md",
     "Base/Интерфейсы и коды внешних библиотек.md",
+    "Base/Пустой интерфейс и приведение типов.md",
+    "Base/Интерфейсы.md",
+    "Base/Вендоринг.md",
+    "Templates/Backend.md",
+    "Base/Типы в Go.md",
+    "Base/Интерфейсы в стандартной библиотеке.md",
+    "Base/Композиция интерфейсов.md",
     "Z-core/00 Базы данных.md",
     "Templates/Data Bases.md",
     "Base/Шардирование.md",
@@ -240,13 +209,7 @@
     "Base/Эмбеддинг (embedding types).md",
     "Base/Методы.md",
     "Base/Поддержка собственных модулей.md",
-    "Base/go proxy.md",
-    "Base/Вендоринг.md",
     "Без названия.canvas",
-    "Base/checksum.md",
-    "Base/Внешние зависимости.md",
-    "Base/Версионирование.md",
-    "Base/go build.md",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
