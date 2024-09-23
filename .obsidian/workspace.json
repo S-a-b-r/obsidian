@@ -8,43 +8,86 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6259558dda38da96",
+            "id": "5a08a3e0666b18ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пустой интерфейс и приведение типов.md",
+                "file": "Base/Рефлексия.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9334a1c5f99ad0c0",
+            "id": "94682397dc593c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пустой импорт.md",
+                "file": "Base/Парсистентность.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2493ab9c34e04193",
+            "id": "5e3311c77cc71006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сравнение интерфейсов.md",
+                "file": "Base/Резервирование.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "4f99c3dad1565033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шардирование.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8e2883ce0c46f730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Redis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef3cddfdd21c696e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Tarantool.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "30e9c1188421703b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сравнение интерфейсов.md",
+                "file": "Base/Рефлексия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +178,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Сравнение интерфейсов.md",
-                "linksCollapsed": true,
+                "file": "Base/Рефлексия.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -158,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сравнение интерфейсов.md"
+                "file": "Base/Рефлексия.md"
               }
             }
           },
@@ -175,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,35 +237,35 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "2493ab9c34e04193",
+  "active": "5a08a3e0666b18ab",
   "lastOpenFiles": [
-    "Base/Пустой интерфейс и приведение типов.md",
-    "Base/Сравнение интерфейсов.md",
+    "Base/go get.md",
+    "Base/Рефлексия.md",
     "Files/Pasted image 20240915175544.png",
-    "Base/Пустой импорт.md",
-    "Base/Интерфейсы и коды внешних библиотек.md",
-    "Base/Интерфейсы.md",
-    "Base/Вендоринг.md",
-    "Templates/Backend.md",
-    "Base/Типы в Go.md",
-    "Base/Интерфейсы в стандартной библиотеке.md",
+    "Base/Сравнение интерфейсов.md",
+    "Base/Пустой интерфейс и приведение типов.md",
     "Base/Композиция интерфейсов.md",
-    "Z-core/00 Базы данных.md",
-    "Templates/Data Bases.md",
-    "Base/Шардирование.md",
-    "Base/Резервирование.md",
+    "Base/Интерфейсы.md",
+    "Base/Интерфейсы и коды внешних библиотек.md",
+    "Base/Интерфейсы в стандартной библиотеке.md",
     "Base/Парсистентность.md",
     "Base/in-memory db.md",
-    "Base/go get.md",
     "Base/Tarantool.md",
     "Base/Redis.md",
-    "Base/go vet.md",
-    "Base/godoc.md",
-    "Base/Патриотизм.md",
-    "Base/Разыменование в Go.md",
+    "Base/Резервирование.md",
+    "Base/Шардирование.md",
+    "Templates/Data Bases.md",
+    "Templates/Backend.md",
     "Templates/Frontend.md",
+    "Templates/Go.md",
+    "Z-core/00 Базы данных.md",
+    "Base/Модули.md",
     "Base/Эмбеддинг (embedding types).md",
+    "Base/godoc.md",
+    "conflict-files-obsidian-git.md",
     "Base/Методы.md",
+    "Base/go vet.md",
+    "Base/go proxy.md",
     "Без названия.canvas",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
