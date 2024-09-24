@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a08a3e0666b18ab",
+            "id": "6259558dda38da96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Пустой интерфейс и приведение типов.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9334a1c5f99ad0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Пустой импорт.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2493ab9c34e04193",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,76 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "94682397dc593c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Парсистентность.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5e3311c77cc71006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Резервирование.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f99c3dad1565033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Шардирование.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e2883ce0c46f730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Redis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ef3cddfdd21c696e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Tarantool.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30e9c1188421703b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +136,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Base/Рефлексия.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -218,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,35 +194,35 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "5a08a3e0666b18ab",
+  "active": "2493ab9c34e04193",
   "lastOpenFiles": [
-    "Base/go get.md",
-    "Base/Рефлексия.md",
-    "Files/Pasted image 20240915175544.png",
     "Base/Сравнение интерфейсов.md",
+    "Base/Рефлексия.md",
     "Base/Пустой интерфейс и приведение типов.md",
-    "Base/Композиция интерфейсов.md",
-    "Base/Интерфейсы.md",
+    "Files/Pasted image 20240915175544.png",
+    "Base/Пустой импорт.md",
     "Base/Интерфейсы и коды внешних библиотек.md",
+    "Base/Интерфейсы.md",
+    "Base/Вендоринг.md",
+    "Templates/Backend.md",
+    "Base/Типы в Go.md",
     "Base/Интерфейсы в стандартной библиотеке.md",
+    "Base/Композиция интерфейсов.md",
+    "Z-core/00 Базы данных.md",
+    "Templates/Data Bases.md",
+    "Base/Шардирование.md",
+    "Base/Резервирование.md",
     "Base/Парсистентность.md",
     "Base/in-memory db.md",
+    "Base/go get.md",
     "Base/Tarantool.md",
     "Base/Redis.md",
-    "Base/Резервирование.md",
-    "Base/Шардирование.md",
-    "Templates/Data Bases.md",
-    "Templates/Backend.md",
-    "Templates/Frontend.md",
-    "Templates/Go.md",
-    "Z-core/00 Базы данных.md",
-    "Base/Модули.md",
-    "Base/Эмбеддинг (embedding types).md",
-    "Base/godoc.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Методы.md",
     "Base/go vet.md",
-    "Base/go proxy.md",
+    "Base/godoc.md",
+    "Base/Патриотизм.md",
+    "Base/Разыменование в Go.md",
+    "Templates/Frontend.md",
+    "Base/Эмбеддинг (embedding types).md",
     "Без названия.canvas",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
