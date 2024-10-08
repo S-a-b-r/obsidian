@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ab7e17c33c3f993b",
+        "id": "efefecfc3465a01f",
         "type": "tabs",
         "children": [
           {
-            "id": "96501be313cd9428",
+            "id": "ff0d472b32c1cd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Юнит-тесты.md",
+                "file": "Base/Интерфейсы в тестировании (mock).md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "db9899e071806b0b",
+            "id": "9e93297179f04ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Покрытие кода.md",
+                "file": "Base/in-memory db.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "673eb78fa5503a96",
+            "id": "1ad323b8b2792040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Удобное тестирование (testify, suite).md",
+                "file": "Base/Вертикальное партицирование.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "24708a50962812d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Горизонтальное партицирование.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74f77ec128e7cc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шардирование.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Удобное тестирование (testify, suite).md",
+                "file": "Base/Шардирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Удобное тестирование (testify, suite).md",
+                "file": "Base/Шардирование.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Удобное тестирование (testify, suite).md"
+                "file": "Base/Шардирование.md"
               }
             }
           },
@@ -194,22 +218,27 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "673eb78fa5503a96",
+  "active": "74f77ec128e7cc9c",
   "lastOpenFiles": [
-    "Base/Удобное тестирование (testify, suite).md",
-    "Base/Покрытие кода.md",
-    "Files/Pasted image 20241007004413.png",
-    "Base/Юнит-тесты.md",
-    "Base/go tests.md",
-    "Base/Функции panic и recover.md",
-    "Base/Cобственные типы ошибок.md",
-    "Base/Сравнение и обертывание ошибок (wrapping error).md",
-    "Base/Тип error.md",
-    "Base/Ошибки.md",
+    "Base/Горизонтальное партицирование.md",
+    "Base/Вертикальное партицирование.md",
+    "Files/Pasted image 20241008170017.png",
+    "Files/Pasted image 20241008165827.png",
+    "Z-core/00 Высоконагруженные системы.md",
+    "Base/in-memory db.md",
+    "Base/Интерфейсы в тестировании (mock).md",
     "Base/Рефлексия.md",
     "Base/Пустой импорт.md",
     "Base/Пустой интерфейс и приведение типов.md",
-    "Base/Хук ошибки errorCaptured.md",
+    "Files/Pasted image 20241007004413.png",
+    "Base/Юнит-тесты.md",
+    "Base/Функции panic и recover.md",
+    "Base/Удобное тестирование (testify, suite).md",
+    "Base/Тип error.md",
+    "Base/Сравнение и обертывание ошибок (wrapping error).md",
+    "Base/Покрытие кода.md",
+    "Base/Ошибки.md",
+    "Base/Cобственные типы ошибок.md",
     "Base/Сравнение интерфейсов.md",
     "Files/Pasted image 20240915175544.png",
     "Base/Интерфейсы и коды внешних библиотек.md",
@@ -220,10 +249,6 @@
     "Base/Интерфейсы в стандартной библиотеке.md",
     "Base/Композиция интерфейсов.md",
     "Z-core/00 Базы данных.md",
-    "Templates/Data Bases.md",
-    "Base/Шардирование.md",
-    "Base/Резервирование.md",
-    "Base/Парсистентность.md",
     "Без названия.canvas",
     "Files/Pasted image 20240613091332.png",
     "Files/Pasted image 20240519152820.png",
