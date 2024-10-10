@@ -16,8 +16,101 @@ Tags: #info
 - невозможно развернуть копию БД или она представляет собой чёрный ящик;
 - сложно тестировать необходимые состояния во внешних источниках данных и проще установить нужные граничные условия на моках.
 
+![[Pasted image 20241010231557.png]]
 
+Проще всего понять принцип работы с моками на примере.
 
+Предположим, есть БД, которую нельзя использовать для тестирования, но надо проверить, правильно ли работает написанный код для работы с ней. Возьмём простейший случай: пакет для работы с БД имеет тип `DB` и метод дляпро верки существования пользователя по его email. Метод `UserExists` возвращает `true`, если пользователь с указанным адресом существует, и `false`, если нет.
+
+```go
+func (db *DB) UserExists(email string) bool
+```
+
+У нас есть интерфейсы, а структура и его внутренняя реализация не имеют значения — можно описать набор методов для работы с БД в виде интерфейса.
+
+В продакшене будем использовать тип, который подключается к базе данных и отправляет запросы, а для тестирования создадим тип с такими же методами, при вызове которых сможем сравнить результаты с эталонными значениями.
+
+```go
+type DBStorage interface {
+    UserExists(email string) bool
+}
+
+// обратите внимание, что DBStorage передаётся в функцию в качестве параметра, таким образом мы можем при тестировании подменить реальную БД тестовой заглушкой.
+func NewUser(db DBStorage, email string) error {
+    if db.UserExists(email) {
+        return fmt.Errorf(`user with '%s' email already exists`, email)
+    }
+    // добавляем запись
+    return nil
+}
+```
+
+Здесь определены интерфейсный тип `DBStorage` и функция `NewUser`, в которой происходит проверка на существование пользователя с таким же почтовым ящиком. В продакшене эту функцию будем вызывать для переменной типа `DB`, а сейчас напишем для неё тест.
+
+Если есть много вариантов для проверки, то для тестирования лучше использовать таблицы (**table-driven tests**) с входящими данными и ожидаемыми результатами(см [[Удобное тестирование (testify, suite)]]):
+```go
+import (
+    "github.com/stretchr/testify/require"
+)
+
+// тип объекта-заглушки
+type DBMock struct {
+    emails map[string]bool
+}
+
+// для удовлетворения интерфейсу DBStorage реализуем  
+func (db *DBMock) UserExists(email string) bool {
+    return db.emails[email]
+}
+// вспомогательный метод, для подсовывания тестовых данных
+func (db *DBMock) addUser(email string) {
+    db.emails[email] = true
+}
+
+func TestNewUser(t *testing.T) {
+    errPattern := `user with '%s' email already exists`
+    tbl := []struct {
+        name    string
+        email   string
+        preset  bool
+        wanterr bool
+    }{
+        {`want success`, `gregorysmith@myexampledomain.com`, false, false},
+        {`want error`, `johndoe@myexampledomain.com`, true, true},
+    }
+    for _, item := range tbl {
+        t.Run(item.name, func(t *testing.T) {
+            // создаём объект-заглушку 
+            dbMock := &DBMock{emails: make(map[string]bool)}
+            if item.preset {
+                dbMock.addUser(item.email)
+            }
+             // выполняем наш код, передавая объект-заглушку
+            err := NewUser(dbMock, item.email)
+            if !item.wanterr {
+                require.NoError(err)
+            } else {
+                require.EqualError(t, err, fmt.Sprintf(errPattern, err.email))
+            }
+        })
+    }
+}
+```
+В тестовой функции `TestNewUser` проверяем, какой результат возвращает функция `NewUser` в зависимости от того, существует пользователь с таким email или нет. Таким образом можно протестировать поведение своей функции без обращения к реальной базе данных. В примере на каждую итерацию создаём мок и при необходимости добавляем туда email, чтобы проверить различные варианты.
+
+Моки можно использовать не только для подмены операций, но и для получения детальной информации, например количества вызовов функции, контроля параметров и т. д. Для этого достаточно добавить нужные поля в структуру заглушки и изменять их при каждом вызове интерфейсного метода:
+
+```go
+type DBMock struct {
+    emails  map[string]bool
+    counter int
+}
+
+func (db *DBMock) UserExists(email string) bool {
+    db.counter++
+    return db.emails[email]
+}
+```
 
 ---
 ### Zero-links:
