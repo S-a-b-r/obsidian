@@ -16,7 +16,9 @@
                 "file": "Base/Юнит-тесты.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Юнит-тесты"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Base/Покрытие кода.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Покрытие кода"
             }
           },
           {
@@ -40,11 +44,27 @@
                 "file": "Base/Интерфейсы в тестировании (mock).md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Интерфейсы в тестировании (mock)"
+            }
+          },
+          {
+            "id": "94cdcfd9fd0de497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Effective Go.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Effective Go"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -79,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -87,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -95,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -118,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Интерфейсы в тестировании (mock).md",
+                "file": "Base/Effective Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Effective Go"
             }
           },
           {
@@ -135,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Интерфейсы в тестировании (mock).md",
+                "file": "Base/Effective Go.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Effective Go"
             }
           },
           {
@@ -149,7 +181,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -158,8 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Интерфейсы в тестировании (mock).md"
-              }
+                "file": "Base/Effective Go.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Effective Go"
             }
           },
           {
@@ -171,7 +207,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ],
@@ -194,14 +232,15 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "673eb78fa5503a96",
+  "active": "94cdcfd9fd0de497",
   "lastOpenFiles": [
+    "Base/Effective Go.md",
+    "Base/Интерфейсы в тестировании (mock).md",
     "Files/Pasted image 20241010231557.png",
     "Base/Удобное тестирование (testify, suite).md",
     "Z-core/00 Высоконагруженные системы.md",
     "Files/Pasted image 20241008170017.png",
     "Files/Pasted image 20241008165827.png",
-    "Base/Интерфейсы в тестировании (mock).md",
     "Base/Горизонтальное партицирование.md",
     "Base/Вертикальное партицирование.md",
     "Base/Покрытие кода.md",
@@ -231,7 +270,6 @@
     "Files/Pasted image 20240519152820.png",
     "Files/Pasted image 20231223151301.png",
     "Files/Pasted image 20240519143335.png",
-    "Files/vue-ui.png",
-    "Files/component_life_hooks.png"
+    "Files/vue-ui.png"
   ]
 }
